@@ -30,7 +30,7 @@ end
 local function s(t, u, v, w)
     return Vector3.new(t.X + u.X * v, t.Y + w, t.Z + u.Z * v)
 end
-local x = a:CreateWindow({Name = "EightBall", Themeable = {Image = "7059346386", Credit = false}})
+local x = a:CreateWindow({Name = "Meteor Client", Themeable = {Image = "18514641393", Credit = false}})
 local y = x:CreateTab({Name = "Blatant"})
 local z = y:CreateSection({Name = "Aura"})
 local A = y:CreateSection({Name = "Bow Aura"})
